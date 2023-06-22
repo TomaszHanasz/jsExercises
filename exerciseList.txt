@@ -1,0 +1,29 @@
+Exercise 1:
+Write a function that takes an array of numbers as input and returns the sum of all the numbers.
+
+Exercise 2:
+Write a function that takes an array of strings as input and returns a new array with the length of each string.
+
+Exercise 3:
+Write a function that takes an object as input and returns an array of all the keys in the object.
+
+Exercise 4:
+Write a function that takes an object as input and returns an array of all the values in the object.
+
+Exercise 5:
+Write a function that takes an array of numbers as input and returns a new array with only the even numbers.
+
+Exercise 6:
+Write a function that takes an array of objects, each containing a "name" and "age" property, and returns an array of names of people above a certain age.
+
+Exercise 7:
+Write a function that takes an array of numbers as input and returns the average of all the numbers.
+
+Exercise 8:
+Write a function that takes an array of strings as input and returns the total number of characters in all the strings combined.
+
+Exercise 9:
+Write a function that takes an array of objects, each containing a "name" and "score" property, and returns the object with the highest score.
+
+Exercise 10:
+Write a function that takes an array of strings as input and returns a Map where each string is the key and its length is the value.
